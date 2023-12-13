@@ -12,7 +12,7 @@ Podemos modificar un archivo en remoto y desde local, hacer un `git push`.
 Para solucionarlo, debemos sincronizar ambas zonas de trabajo.
 Podemos usar `git fetch` para la recuperación de archivos de remoto a local.
 
-Sincronizamos y un `git push`.
+Sincronizamos y un `git push` para subir los cambios.
 
 ### 2
 
